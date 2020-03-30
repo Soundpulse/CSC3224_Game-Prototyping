@@ -1,0 +1,13 @@
+{
+"companyName": "Newcastle University",
+"productName": "CSC3224",
+"dataUrl": "CSC3224-web.data.unityweb",
+"wasmCodeUrl": "CSC3224-web.wasm.code.unityweb",
+"wasmFrameworkUrl": "CSC3224-web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
